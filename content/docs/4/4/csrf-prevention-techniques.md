@@ -1,7 +1,6 @@
 ---
 title: "CSRF Prevention Techniques: Protecting Web Applications from Forged Requests"
-description: "Learn about various techniques and best practices for mitigating CSRF vulnerabilities and securing web applications against forged requests."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/4.jpg"
 icon: "code"
 draft: false
 ---

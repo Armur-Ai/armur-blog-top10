@@ -1,7 +1,6 @@
 ---
 title: "Data Encryption and Secure Storage: Implementing Strong Data Protection Mechanisms"
-description: "Learn about data encryption techniques and secure storage practices to safeguard sensitive data at rest and in transit, minimizing the risk of unauthorized access."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/6.jpg"
 icon: "code"
 draft: false
 ---

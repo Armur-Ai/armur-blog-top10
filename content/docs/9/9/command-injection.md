@@ -1,7 +1,6 @@
 ---
 title: "Command Injection: Exploiting System Commands for Unauthorized Access"
-description: "This tutorial explores command injection vulnerabilities, explaining how attackers can inject malicious commands to gain control of the underlying operating system."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/9.jpg"
 icon: "code"
 draft: false
 ---

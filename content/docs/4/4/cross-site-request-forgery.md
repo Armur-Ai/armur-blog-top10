@@ -1,7 +1,6 @@
 ---
 title: "Cross-Site Request Forgery (CSRF): Understanding and Exploiting Web Application Vulnerabilities"
-description: "This tutorial introduces CSRF attacks, explaining how they exploit user trust and browser behavior to perform unauthorized actions on websites."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/4.jpg"
 icon: "code"
 draft: false
 ---

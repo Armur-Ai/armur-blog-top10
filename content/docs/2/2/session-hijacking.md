@@ -1,7 +1,6 @@
 ---
 title: "Session Hijacking: Understanding and Preventing Session Management Vulnerabilities"
-description: "Learn about session hijacking attacks, how attackers exploit weak session management, and best practices for securing user sessions."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/2.jpg"
 icon: "code"
 draft: false
 ---

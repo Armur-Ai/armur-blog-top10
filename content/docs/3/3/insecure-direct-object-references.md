@@ -1,7 +1,6 @@
 ---
 title: "Insecure Direct Object References (IDOR): Exploiting Predictable Resource Access"
-description: "This tutorial introduces IDOR vulnerabilities and demonstrates how attackers can manipulate object references to access unauthorized resources."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/3.jpg"
 icon: "code"
 draft: false
 ---

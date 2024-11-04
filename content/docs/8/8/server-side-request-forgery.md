@@ -1,7 +1,6 @@
 ---
 title: "Server-Side Request Forgery (SSRF): Exploiting Server-Side Proxies for Malicious Purposes"
-description: "This tutorial explores SSRF vulnerabilities, explaining how attackers can manipulate server-side requests to access internal resources or launch attacks against other systems."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/8.jpg"
 icon: "code"
 draft: false
 ---

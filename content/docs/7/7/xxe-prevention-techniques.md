@@ -1,7 +1,6 @@
 ---
 title: "XXE Prevention Techniques: Securing XML Parsers and Protecting Against XXE Attacks"
-description: "Learn about effective techniques and best practices for mitigating XXE vulnerabilities and securing XML parsing processes in web applications."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/7.avif"
 icon: "code"
 draft: false
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Authentication Bypass: Exploiting Weak Credentials and Logic Flaws"
-description: "This tutorial explores authentication bypass techniques, focusing on exploiting weak credentials, logic flaws, and common vulnerabilities."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/2.jpg"
 icon: "code"
 draft: false
 ---

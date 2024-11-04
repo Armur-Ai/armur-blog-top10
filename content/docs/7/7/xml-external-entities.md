@@ -1,7 +1,6 @@
 ---
 title: "XML External Entities (XXE): Understanding and Preventing XML Parsing Vulnerabilities"
-description: "This tutorial explores XXE vulnerabilities, explaining how attackers can exploit XML parsers to access sensitive data or launch denial-of-service attacks."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/7.avif"
 icon: "code"
 draft: false
 ---

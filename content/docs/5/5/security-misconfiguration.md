@@ -1,7 +1,6 @@
 ---
 title: "Security Misconfiguration: Identifying and Addressing Common Vulnerabilities"
-description: "This tutorial explores security misconfigurations in web applications and systems, highlighting common vulnerabilities and best practices for securing configurations."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/5.avif"
 icon: "code"
 draft: false
 ---

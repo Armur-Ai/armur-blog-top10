@@ -1,7 +1,6 @@
 ---
 title: "IDOR and Privilege Escalation: Leveraging IDOR to Gain Elevated Access"
-description: "Learn how attackers can combine IDOR with other vulnerabilities to escalate privileges and gain unauthorized control within applications."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/3.jpg"
 icon: "code"
 draft: false
 ---

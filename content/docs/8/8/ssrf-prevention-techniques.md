@@ -1,7 +1,6 @@
 ---
 title: "SSRF Prevention Techniques: Securing Server-Side Requests and Mitigating SSRF Risks"
-description: "Learn about effective techniques and best practices for mitigating SSRF vulnerabilities and protecting web applications from server-side request manipulation."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/8.jpg"
 icon: "code"
 draft: false
 ---

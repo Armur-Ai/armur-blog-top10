@@ -1,7 +1,6 @@
 ---
 title: "Sensitive Data Exposure: Protecting Confidential Information in Web Applications"
-description: "This tutorial explores sensitive data exposure vulnerabilities, focusing on common weaknesses and best practices for protecting confidential information in web applications."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/6.jpg"
 icon: "code"
 draft: false
 ---

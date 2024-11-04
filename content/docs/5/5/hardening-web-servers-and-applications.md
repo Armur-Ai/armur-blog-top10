@@ -1,7 +1,6 @@
 ---
 title: "Hardening Web Servers and Applications: Practical Steps for Secure Configuration"
-description: "Learn how to harden web servers and applications by implementing secure configuration practices to minimize attack surface and protect against common threats."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/5.avif"
 icon: "code"
 draft: false
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Command Injection Prevention Techniques: Securing System Calls and Protecting Against Command Injection Attacks"
-description: "Learn about effective techniques and best practices for mitigating command injection vulnerabilities and safeguarding web applications from system command manipulation."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/9.jpg"
 icon: "code"
 draft: false
 ---

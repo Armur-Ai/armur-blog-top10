@@ -1,7 +1,6 @@
 ---
 title: "SQL Injection: Understanding and Exploiting Database Vulnerabilities"
-description: "This tutorial introduces SQL Injection, a common web vulnerability, and demonstrates how attackers can exploit it to manipulate databases."
-image: "https://armur-ai.github.io/armur-blog-pentest/images/security-fundamentals.png"
+image: "https://armur-ai.github.io/armur-blog-top10/images/1.jpg"
 icon: "code"
 draft: false
 ---
